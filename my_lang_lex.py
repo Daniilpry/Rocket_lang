@@ -28,7 +28,7 @@ tokenTable = {
     '+=': 'add_ass_op', '-=': 'add_ass_op',
     '*=': 'mult_ass_op', '/=': 'mult_ass_op',
 
-    # тернарни
+    # тернарний
     '?': 'tern_op', ':': 'tern_op',
 
     # дужки
